@@ -37,3 +37,20 @@ The source code is not publicly available.
 ## 📄 License
 
 Norix is proprietary software.
+
+
+## 🤖 Requirements
+
+Norix AI requires Ollama.
+
+Required model:
+
+ollama pull llama3.1:8b
+
+Python is NOT required.
+The required Python dependencies are included in the application.
+
+### Requirements
+- Windows 10/11
+- Ollama
+- llama3.1:8b
